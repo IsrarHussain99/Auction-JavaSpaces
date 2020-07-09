@@ -12,4 +12,4 @@ save Apache libraries to Desktop to follow this
 
 The JavaSpace server will run.
 
-Run the application.
+Run the application (JAR file from .Zip AuctionRoom - Build)
